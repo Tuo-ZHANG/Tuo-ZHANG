@@ -2,7 +2,7 @@
 
 I'm a full stack developer.
 
-I am active on both [Linkedin](www.linkedin.com/in/tuo-zhang-8a5635221) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5e483a540000000001009200).
+I am active on both [Linkedin](https://www.linkedin.com/in/tuo-zhang-8a5635221) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5e483a540000000001009200).
 
 My Wechat: _tz0622
 
