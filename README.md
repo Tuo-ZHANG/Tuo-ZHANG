@@ -6,9 +6,7 @@ I am active on both [Linkedin](https://www.linkedin.com/in/tuo-zhang-8a5635221) 
 
 My Wechat: _tz0622
 
-德国上岸一本通小程序:
-
-![德国上岸一本通](https://github.com/Tuo-ZHANG/Tuo-ZHANG/blob/master/miniprogram.jpeg)
+Recently I am developing a [web app](https://german-writing-tracker-frontend.vercel.app/) to track my german writing.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tuo-ZHANG&show_icons=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuo-ZHANG&layout=compact)
